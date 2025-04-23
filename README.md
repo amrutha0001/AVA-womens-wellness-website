@@ -28,7 +28,7 @@ To run AVA locally, ensure the following software is installed on your system:
 2. **Install project dependencies (if any)**:
    - Clone the git repository:
      ```bash
-     git clone https://github.com/Menodore/AVA.github.io 
+     git clone https://github.com/amrutha0001/AVA-womens-wellness-website
      cd ava1
      ```
    - Move the directory `ava1` to `C:\xampp\htdocs`
@@ -64,7 +64,7 @@ To run AVA locally, ensure the following software is installed on your system:
 ## 🚀 Quick Start
 
 Access your project:
-- Open your browser and navigate to: [http://localhost/ava_final](http://localhost/ava_final)
+- Open your browser and navigate to: [http://localhost/ava1](http://localhost/ava1)
 
 
 <!-- ## 🌐 Project Website -->
