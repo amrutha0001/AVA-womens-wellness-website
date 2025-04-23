@@ -2,6 +2,11 @@
 
 **AVA** is a women-centric wellness platform designed to track periods, PCOS/PCOD, thyroid, and mental health, while offering educational resources and blogs. This guide will help you set up and run the AVA project locally.
 
+## Initial Design Document
+
+You can view the initial design document here: [Initial Design Document on OneDrive](https://1drv.ms/w/c/bace7122f432be30/EXKYOzupLTNAmtfFnvYnwqgBjg3Xu9Nlt-CmLz-ZyQc8iA?e=Vx9JNB)
+
+
 ## Final Project Documentation
 
 You can view the full final project document here: [Final Project Document on Canva](https://www.canva.com/design/DAGkyfwRHeA/quF-xmE1gRTgaXF_1IH1qQ/edit?utm_content=DAGkyfwRHeA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
